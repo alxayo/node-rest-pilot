@@ -1,7 +1,4 @@
 //node.js web server
-//by: @josephg
-//date: 2014-06-20
-//desc: simple node.js web server
 
 //require http module
 var http = require('http');
